@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* CSS Document */
+/*隐藏的导航*/
+.hide-menu{ display:block;}
+.menu-btn{ position:absolute; z-index:9999999;top:20px; right:15%; display:block; cursor: pointer;}
+.menus{ width:100%; display:none; position:absolute; right:0; top:50px; background:#fff; z-index:9999999; }
+.arrow-down{border-bottom:solid 9px #dedede; border-left:solid 9px transparent;border-right:solid 9px transparent;height:0;width:0; position:absolute;right:8%; top:-9%; }
+.menus ul{ width:95%; margin:10px auto;}
+.menus_li{  margin-bottom:5px; float:left; width:100%;}
+.menus_li .menus_a{ display:block; line-height:30px; text-align:center; font-size:14px; height:30px;  border:solid 1px #fff; -webkit-border-radius:3px;color:#333333;}
+.menus_li .menus_a:hover{ border:solid 1px #a57a4a; color:#a57a4a;}
+.navsm{width:100%; text-align:center; display:none;}
+.nav_ol{width:100%; float:left;}
+.nav_ol li{width:100%; float:left; height:22px; line-height:22px;}
+.nav_ol a{color:#333333; font-size:12px;}
+.nav_ol a:hover{color:#005bab;}
+/*banner*/
+.banner{width:100%; float: left;}
+.banner img{width:100%;}
+/* Callback example */
+.callbacks_container{
+	margin-bottom:2px;
+	position:relative;
+	width:100%;
+	max-width:100%;
+	text-align:center;
+}
+
+.callbacks{
+	position:relative;
+	list-style:none;
+	overflow:hidden;
+	width:100%;
+	padding:0;
+	margin:0;
+}
+.callbacks li{
+	position:absolute;
+	width:100%;
+	left:0;
+	top:0;
+}
+.callbacks img{
+	display:block;
+	position:relative;
+	z-index:1;
+	height:auto;
+	width:100%;
+	border:0;
+}
+.callbacks .caption{
+	display:block;
+	position:absolute;
+	z-index:2;
+	font-size:20px;
+	text-shadow:none;
+	color:#fff;
+	background:#000;
+	background:rgba(0,0,0, .8);
+	left:0;
+	right:0;
+	bottom:0;
+	padding:10px 20px;
+	margin:0;
+	max-width:none;
+}
+.callbacks_nav{
+	position:absolute;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+	top:50%;
+	left:0;
+	opacity:0.6;
+	z-index:3;
+	text-indent:-9999px;
+	overflow:hidden;
+	text-decoration:none;
+	height:61px;
+	width:38px;
+	background:transparent url("../images/themes.gif") no-repeat left top;
+	margin-top:-30px;
+	display:none;
+}
+.callbacks_container:hover .callbacks_nav{display:block;}
+.callbacks_nav:active{opacity:1.0;}
+.callbacks_nav.next{
+	left:auto;
+	background-position:right top;
+	right:0;
+}
+
+@media screen and (max-width:600px){
+	.callbacks_nav{
+		top:47%;
+	}
+}
+/*pager*/
+.callbacks_tabs.callbacks1_tabs{margin-top:-80px; position:relative;z-index:100; margin-bottom: 60px;}
+.callbacks_tabs.callbacks1_tabs li{display:inline-block; width:16px;height:16px;margin-left:12px;border-radius:10px;position:relative; background:#fff;}
+.callbacks_tabs.callbacks1_tabs li a{ float:left;width:16px;height:16px;border-radius:10px;position:absolute; left:0; z-index:1000; color:rgba(100,200,300,0);color:transparent;}
+.callbacks_tabs.callbacks1_tabs li.callbacks_here a{background:#a57a4a;}
+
+
+
+
+
+
+
+.list_img{width:100%;margin: 0 auto;position: relative; float:left;margin-top:4%; }
+.img_div{width:100%; margin: 0 auto;position: relative;overflow: hidden;}
+.img_ul{overflow: hidden; margin: 0 auto;}
+.img_div ul{position:relative;top:0;left:0;}
+.img_div ul li{ float: left;}
+.img_div ul li .div {width:100%; }
+.img_div ul li .div img{width:100%;vertical-align: bottom;}
+.prev,.next{width:2%;top:40%;position: absolute;cursor: pointer;}
+.prev img,.next img{width:100%;vertical-align:bottom; }
+.prev{left:0;}
+.next{right: 0;}	
+.pdimg{width: 100%;}
+
+
+
+
+

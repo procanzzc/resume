@@ -1,0 +1,305 @@
+@charset "utf-8";
+/* CSS Document */
+@media(max-width: 1380px){
+	.white_p p{font-size: 26px;}
+	.prword h4{font-size: 48px;}
+	.srword h4{font-size: 48px;}
+	.abbox h3{ font-size: 30px; }
+	.abbox p{ font-size: 18px; }
+	.abbox h5{font-size: 28px;}
+	.abbox h4{font-size: 22px;}
+	.six h3{font-size: 34px;}
+	.six_ul .chinese{font-size:30px;}
+	.six_ul .eng{ font-size: 26px; }
+	.six_ul p{ font-size: 22px; }
+	.weare h3{ font-size: 38px;}
+	.weare span{ font-size: 28px;}
+	.newword h3{ font-size: 36px;}
+	.newword p{ font-size: 26px;}
+	.right_g p{letter-spacing: 2px;}
+	.chat_l h3{font-size: 30px;}
+	.chat_l h4{font-size: 26px; }
+	.chat_l span{  font-size: 25px;}
+	.chat_l p{ font-size: 25px;}
+	.bigcode p{ font-size: 22px; }
+	.jword p{font-size: 25px;}
+	.nybanner{height: 520px; background-size: 100% 100%;}
+	.newword{width: 60%;}
+	.pdtop h3{letter-spacing: 35px;}
+	.srword h4{letter-spacing: 10px;}
+	.joinus h3{font-size: 30px;}
+
+}
+@media(max-width: 1280px){
+	.white_p p{font-size: 24px;}
+	.prword h4{font-size: 42px;}
+	.srword h4{font-size: 42px;}
+	.ser_r h3{font-size: 30px;}
+	.ser_r p{font-size: 20px;}
+	.when p{font-size: 22px;}
+	.newword h3{ font-size: 32px;}
+	.newword p{ font-size: 24px;}
+	.other h3{font-size: 30px;}
+	.other p{font-size: 30px;}
+	.jword p{font-size: 24px;}
+	.pdtop h3{letter-spacing: 28px;}
+}
+
+@media(max-width: 1180px){
+	.nav_ul li{padding:0 18px;}
+	.nav{width: 700px;}
+	.white_p p{font-size: 20px;}
+	.white_p h3{font-size: 60px ; background:url(../images/white.png) no-repeat right 0px;}
+	.prword h4{font-size: 36px;}
+	.mobilename p{ font-size: 36px;}
+	.srword h4{font-size: 36px;}
+	.parttop h3{font-size: 38px; }
+	.parttop p{font-size: 58px; }
+	.when{ bottom: -14%;}
+	.abbox h4{font-size: 20px;}
+	.abbox h5{font-size: 21px;}
+	.six h3{font-size: 32px;}
+	.six_ul .chinese{font-size:28px;}
+	.six_ul .eng{ font-size: 22px; }
+	.six_ul p{ font-size: 20px; }
+	.weare h3{ font-size: 30px;}
+	.weare span{ font-size: 20px;}
+	.newword h3{ font-size: 30px;}
+	.newword p{ font-size: 22px;}
+	.other h3{font-size: 26px;}
+	.other p{font-size: 26px;}
+	.chat_l h3{font-size: 26px;}
+	.chat_l h4{font-size: 22px; }
+	.chat_l span{  font-size: 21px;}
+	.chat_l p{ font-size: 21px;}
+	.bigcode p{ font-size: 16px; }
+	.jword p{font-size: 22px;}
+	.awtop img{width: 85%;}
+
+}
+@media(max-width: 1080px){
+	.nav_ul li{padding:0 14px;}
+	.nav{width: 600px;}
+	.navpop a{font-size: 18px;}
+	.china{font-size: 16px !important;}
+	.ft_dl dd a{font-size: 13px;}
+	.prword h4{font-size: 32px;}
+	.srword h4{font-size: 32px;}
+	.join h3{font-size: 36px;}
+	.newword h3{ font-size: 28px;}
+	.awbg{width: 100%;height: 380px;}
+	.other h3{font-size: 22px;}
+	.other p{font-size: 22px;}
+	.abbox h3{ font-size: 28px; }
+	.abbox p{ font-size: 16px; }
+	.abbox h5{font-size: 22px;}
+	.abbox h4{font-size: 18px;}
+	.joinus h3{font-size: 26px;}
+	.nymain{width: 86%;}
+	.news{width: 94%; margin:0 3%; }
+}
+@media(max-width: 980px){
+	.white_p p{font-size: 18px;}
+	.white_p h3{font-size: 50px ;background:url(../images/white.png) no-repeat right -10px; }
+	.ft_dl dt a{font-size: 18px; padding-left: 22%;}
+	.ft_dl dd a{padding-left: 22%;}
+	.ft_dl span{font-size: 13px; padding-left: 22%;}
+	.prword h4{font-size: 26px;}
+	.srword h4{font-size: 26px;}
+	.prword p{font-size: 15px;}
+	.srword p{font-size: 15px;}
+	.pdtop h3{font-size: 20px;}
+	.pdtop p{font-size: 20px; width: 100%;}
+	.pdtop h4{font-size: 20px;}
+	.mobilename p{font-size: 30px;}
+	.newword h3{ font-size: 26px;}
+	.newword p{ font-size: 20px;}
+	.get_ul li{width: 46%;margin:2% 1%;}
+	.america{width: 70% !important;}
+	.chat_l h3{font-size: 20px;}
+	.chat_l h4{font-size: 16px; }
+	.chat_l span{  font-size: 15px;}
+	.chat_l p{ font-size: 15px;}
+	.bigcode p{ font-size: 12px; }
+	.jword p{font-size: 24px;}
+	.jword p{font-size: 20px;}
+	.awtop img{width: 90%;}
+	.nymain{width: 90%;}
+}
+@media(max-width: 920px){
+	.nav_ul li{padding:0 8px;}
+	.nav{width: 520px;}
+	.ft_dl dd a{font-size: 12px;}
+	.logo{width: 215px;}
+	.parttop h3{font-size: 32px; }
+	.parttop p{font-size: 54px; }
+	.ser_r h3{font-size: 26px;}
+	.ser_r p{font-size: 18px;}
+	.when p{font-size: 20px;}
+	.six_ul li{width: 100%; float: left;}
+	.other h3{font-size: 20px;}
+	.other p{font-size: 20px;}
+	.jword p{font-size: 18px;}
+	
+}
+@media(max-width: 860px){
+	.white_p p{font-size: 16px;}
+	.white_p h3{font-size: 40px ;background:url(../images/white.png) no-repeat right -20px; }
+	.ftlogo{width: 30%;}
+	.join h3{font-size: 28px;}
+	.newword h3{ font-size: 24px;}
+	.newword p{ font-size: 18px;}
+	.jword p{font-size: 16px;}
+	.news{width: 96%; margin:0 2%; }
+}
+@media(max-width: 780px){
+	.navpop a{font-size: 17px;}
+	.main{width: 98%;}
+	.white_p p{font-size: 14px;}
+	.pdtop h3{font-size: 18px;}
+	.pdtop p{font-size: 18px;}
+	.pdtop h4{font-size: 18px;}
+	.prev, .next{width: 5%;}
+	.parttop h3{font-size: 28px; }
+	.parttop p{font-size: 46px; }
+	.ser_r h3{font-size: 22px;}
+	.ser_r p{font-size: 14px;}
+	.when p{font-size: 16px;}
+	.six_ul li{min-height: 100px;}
+	.newword h3{ font-size: 22px;}
+	.awbg{width: 100%;height: 300px;}
+	.weare span{letter-spacing: 2px;}
+}
+@media(max-width: 768px){
+	.nav{display: none;}
+	.navbtn{display: block;}
+	.brown h3{font-size: 16px;}
+	.brown p{font-size: 13px;}
+	.ft_ul li{width: 33%;}
+	.white_p p{font-size: 12px;}
+	.white_p h3{font-size: 30px ;background:url(../images/white.png) no-repeat right -30px; }
+	.pr1{width: 100%;}
+	.pr{width: 100%;}
+	.sr1{width: 100%;}
+	.sr{width: 100%;}
+	.mobilename p{font-size: 24px; line-height: 1.6em;}
+	.abbox h3{ font-size: 26px; }
+	.abbox p{ font-size: 14px; }
+	.abbox h4{font-size: 14px;}
+	.abbox h5{font-size: 18px;}
+	.six h3{font-size: 24px;margin-bottom: 4%;}
+	.six_ul .chinese{font-size:24px;}
+	.six_ul .eng{ font-size: 20px; }
+	.six_ul p{ font-size: 14px; }
+	.weare h3{ font-size: 20px;}
+	.weare span{ font-size: 14px;}
+	.us_ul p{font-size: 14px;}
+	.join a{width: 8%;}
+	.other h3{font-size:18px;}
+	.other p{font-size: 18px;}
+	.jword p{font-size: 14px;}
+	.nybanner{background-size: 100% 100%; height: 500px;}
+	.joinus h3{font-size: 22px;}
+	.news{width: 98%; margin:0 1%; }
+}
+@media(max-width: 640px){
+	.ft_ul li{min-height: 125px; width: 50%;margin-top: 2%;}
+	.codeli{display: none;}
+	.codebox{display: block;}
+	.ftlogo{width: 45%;}
+	.white_p{top:8%;}
+	.pdtop h3{font-size: 16px; letter-spacing: 10px;}
+	.pdtop p{font-size: 16px;}
+	.pdtop h4{font-size: 16px;}
+	.mobile h3{font-size: 30px;}
+	.mobilename h4{width: 20%;}
+	.ser_r h3{font-size: 18px;}
+	.when p{font-size: 14px;}
+	.ser_r p{display: block; width: 50%; float: left;}
+	.us_ul p{font-size: 12px;}
+	.weare{width: 75%;}
+	.newword h3{ font-size: 20px;}
+	.newword p{ font-size: 16px;}
+	.awardbox{width: 98%;margin:0 1%;}
+	.nymain{width: 92%;}
+}
+@media(max-width: 600px){
+	.newword h3{ font-size: 16px;}
+	.newword p{ font-size: 14px;}
+	.awbg{width: 100%;height: 260px;}
+	.other h3{font-size: 16px;}
+	.other p{font-size: 16px;}
+	.chat_l h3{font-size: 18px;}
+	.chat_l h4{font-size: 14px; }
+	.chat_l span{  font-size: 12px;}
+	.chat_l p{ font-size: 13px;}
+	.callbacks_tabs.callbacks1_tabs{margin-top: -35px;margin-bottom: 20px;}
+}
+@media(max-width: 540px){
+	.white_p p{font-size: 11px;}
+	.white_p h3{font-size: 20px ;background:url(../images/white1.png) no-repeat right center;}
+	.sr2{width: 100%;}
+	.sr3{width: 100%;}
+	.sr4{width: 100%;}
+	.parttop h3{font-size: 24px; }
+	.parttop p{font-size: 42px; }
+	.ser_r h3{font-size: 16px;}
+	.ser_r p{font-size: 12px;}
+	.when p{font-size: 12px;}
+	.six h3{font-size: 20px;}
+	.six_ul li{min-height: 80px;}
+	.us_ul li{width: 32%;}
+	.weare{width: 100%;margin-left: 0;margin: 2% 0;}
+	.join a{width: 10%;}
+	.newimg{width: 100%;margin:1% 0;}
+	.newword{width: 100%;margin:1% 0;}
+	.get_ul li{width: 100%;margin:2% 0;}
+	.america{width: 100% !important;}
+	.jimg{width: 100%;margin: 2% 0;}
+	.jword{width: 100%;margin: 1% 0;}
+	.nybanner{height: 340px;}
+}
+@media(max-width: 500px){
+	.pdtop h3{font-size: 14px; letter-spacing: 10px;}
+	.pdtop p{font-size: 14px;}
+	.pdtop h4{font-size: 14px;}
+	.mobile h3{font-size: 26px;}
+	.mobilename h4{width: 30%;}
+	.header{height: 70px;}
+	.newword h3{ font-size: 14px;}
+	.newword p{ font-size: 12px;}
+	.awbg{width: 100%;height: 220px;}
+	.joinus h3{font-size: 18px;}
+}
+@media(max-width: 480px){
+	.brown h3{font-size: 14px;}
+	.brown p{font-size: 12px;}
+	.logo img{width: 80%;}
+	.white_p h3{font-size: 17px ;}
+	.pr2{width: 100%;}
+	.pr3{width: 100%;}
+	.pr4{width: 100%;}
+	.abbox h3{ font-size: 20px; }
+	.abbox p{ font-size: 12px; }
+	.abbox h4{font-size: 12px;}
+	.abbox h5{font-size: 14px;}
+	.six_ul .chinese{font-size:20px;}
+	.six_ul .eng{ font-size: 18px; }
+}
+@media(max-width: 450px){
+	.ser_l{width: 100%;}
+	.ser_r{width: 100%; padding: 2% 0;}
+	.when{bottom:-4%;}
+	.awbg{width: 100%;height: 200px;}
+	.chat_l{width: 100%;}
+	.bigcode{width: 70%;margin:4% 15%;}
+}
+@media(max-width: 400px){
+
+	.mobile h3{font-size: 22px;}
+	.mobilename p{font-size: 16px; line-height: 2.2em;}
+}
+@media(max-width: 360px){
+	.awbg{width: 100%;height: 160px;}
+	
+}
